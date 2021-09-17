@@ -26,10 +26,10 @@ function addElement (){
 
     //now appending the main container to the main page
     // document.body.insertBefore(ce_main_container, currentDiv);
-    document.querySelector('.css-1k06pwf').appendChild(ce_main_container);
+    document.querySelector('body').appendChild(ce_main_container);
 }
 
-// addElement();
+addElement();
 
 function addElement2(){
     // Your existing code unmodified...
