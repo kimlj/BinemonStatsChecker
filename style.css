@@ -19,9 +19,7 @@
 
     background-color: red;
 }
-a[href*="https://app.binemon.io/binemon/"]:hover .ce_main{
-    display: flex;
-}
+
 /* elements class - from top to bot
 MuiBox-root css-187qhkg
 jss28 MuiBox-root css-30i7d6
