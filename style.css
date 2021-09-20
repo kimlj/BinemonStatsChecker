@@ -25,3 +25,14 @@ MuiBox-root css-187qhkg
 jss28 MuiBox-root css-30i7d6
 ---->create the div here as a child of these
 */
+
+/* 
+box of all mons items
+MuiBox-root.css-vqwd1x
+
+use > to select all direct children
+*/
+
+/* .css-30i7d6:hover{
+    background-color: red !important;
+} */

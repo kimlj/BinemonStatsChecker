@@ -48,3 +48,12 @@ function addElement2(){
 }
 
 // addElement2();
+
+
+// Selecting items element
+// use this .css-30i7d6
+// const item = document.querySelectorAll("div.css-30i7d6"); //this will return a list of elements
+// console.log(item);
+
+const items = document.getElementsByClassName('jss21 MuiBox-root css-30i7d6');
+console.log(items);
