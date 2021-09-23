@@ -29,7 +29,7 @@
     ],
     "host_permissions":[
         "https://app.binemon.io/*",
-        "https://binemon.io/",
+        "https://app.binemon.io/buy/mons",
         "https://www.google.com/",
 
         "https://www.youtube.com/"

@@ -36,3 +36,7 @@ use > to select all direct children
 /* .css-30i7d6:hover{
     background-color: red !important;
 } */
+
+.red-background-color{
+    background-color: red !important;
+}

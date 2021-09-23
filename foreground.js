@@ -55,5 +55,32 @@ function addElement2(){
 // const item = document.querySelectorAll("div.css-30i7d6"); //this will return a list of elements
 // console.log(item);
 
-const items = document.getElementsByClassName('jss21 MuiBox-root css-30i7d6');
-console.log(items);
+
+// //hover eventListener
+// function hover(element, className){
+//     element.addEventListener('mouseenter', e => element.classList.add(className))
+//     element.addEventListener('mouseleave', e => element.classList.remove(className))
+// }
+
+// //convert nodelist to array using spread operator
+// const itemList = [...items];
+// //applying function to every item
+// console.log(itemList);
+
+//NOTE!!!!!! getElementsByClassName lang ang gumagana idkw
+const items = document.getElementsByClassName('css-30i7d6');
+// console.log(items);
+
+const items2 = document.getElementsByClassName('css-30i7d6');
+// console.log(items2);
+
+//this one is working, either querySelectorAll or getElementsByTagName
+// var x = document.querySelectorAll("img");
+
+// // Set the background color of the first <p> element
+// for (const item of x){
+//     item.style.width = '20px';
+// }
+
+// var images = document.getElementsByTagName('a');
+// console.log(images);
